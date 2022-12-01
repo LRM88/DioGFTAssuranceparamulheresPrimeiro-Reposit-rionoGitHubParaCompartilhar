@@ -17,5 +17,4 @@ Com isso, você poderá compartilhar suas anotações e exercícios em
 seu próprio repositório. Criando assim, o primeiro (de muitos)
 projetos do seu portfólio ;)
 
-Slides;
 
