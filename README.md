@@ -17,4 +17,7 @@ Com isso, você poderá compartilhar suas anotações e exercícios em
 seu próprio repositório. Criando assim, o primeiro (de muitos)
 projetos do seu portfólio ;)
 
+![image](https://user-images.githubusercontent.com/98029687/209953207-2d89244b-a840-4fd7-88f8-ea83149d7c1a.png)
+
+
 
